@@ -9,7 +9,6 @@ Kaggle: [misrakahmed/vegetable-image-dataset](https://www.kaggle.com/datasets/mi
 # Notebook
 
 - Masing split data dan hasilnya berada pada masing-masing notebook
-- Untuk notebook yang hanya kode
 
 ## Dataset Asli (21.000)
 
